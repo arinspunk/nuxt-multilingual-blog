@@ -1,6 +1,6 @@
 # Nuxt Multilingual Blog 
 
-This is an example of a basic multilingual blog built with Nuxt.
+This is an example of a basic multilingual blog with [Nuxt](https://nuxtjs.org/).
 
 ## How to run this (and to try it :microscope:) ##
 
