@@ -1,6 +1,12 @@
 # Nuxt Multilingual Blog 
 
-This is an example of a basic multilingual blog with [Nuxt](https://nuxtjs.org/).
+This is an example of a basic multilingual blog with [Nuxt](https://nuxtjs.org/). The objective of the project was to create a functional basic structure with:
+
+1.  A home where to show the published posts
+2.  The posts themselves
+3.  And a menu to change the language
+
+So everything is quite spartan, like its styles for example :grimacing:
 
 ## How to run this (and to try it :microscope:) ##
 
