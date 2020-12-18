@@ -14,14 +14,14 @@ export default {
                 en: {
                     noMore: 'No more…',
                     photo: 'Photo',
-                    published: 'Publicado:',
+                    published: 'Published:',
                     seeAll: 'See all',
                     welcome: 'Welcome'
                 },
                 es: {
                     noMore: 'No más…',
                     photo: 'Foto',
-                    published: 'Published:',
+                    published: 'Publicado:',
                     seeAll: 'Ver todos',
                     welcome: 'Bienvenida'
                 },
