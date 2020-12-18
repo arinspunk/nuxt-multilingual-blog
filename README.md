@@ -6,7 +6,7 @@ This is an example of a basic multilingual blog with [Nuxt](https://nuxtjs.org/)
 2.  The posts themselves
 3.  And a menu to change the language
 
-So everything is quite spartan, like its styles for example :grimacing:
+So everything is quite spartan, like its styles for example, but it works :grimacing:
 
 ## How to run this (and to try it :microscope:) ##
 
