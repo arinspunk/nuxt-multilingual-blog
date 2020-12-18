@@ -1,5 +1,7 @@
 {
-  "name": "naia-blog",
+  "name": "nuxt-multilingual-blog",
+  "version": "1.0.0",
+  "author": "xulioze <hello@xulioze.com>",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
