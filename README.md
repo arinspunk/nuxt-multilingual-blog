@@ -1,12 +1,12 @@
-# :wrench: Nuxt Multilingual Blog 
+# Nuxt Multilingual Blog 
 
-This is an example of a multilingual blog built with Nuxt.
+This is an example of a basic multilingual blog built with Nuxt.
 
-## :tractor: How to run this and try it ##
+## How to run this (and to try it :microscope:) ##
 
 First you need to have [Node installed in your computer](https://nodejs.org/en/download/package-manager/) and then:
 
-1.  **Fork** this repository.
+1.  [Fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) this repository.
 
 2.  Clone your forked repository.
 
