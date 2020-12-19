@@ -2,6 +2,11 @@
   <div>
     <header class="header container">
       <ul class="nav">
+        <li class="nav__item">
+          <nuxt-link class="nav__link" :to="localePath('index')">
+            {{$t('seeAll')}}
+          </nuxt-link>
+        </li>
         <li v-if="$i18n.locale !== 'pt'" class="nav__item">
           <nuxt-link v-if="article.transPt == undefined" class="nav__link" to="/">PT</nuxt-link>
           <nuxt-link v-else class="nav__link" :to="`/blog/${article.transPt}`">PT</nuxt-link>

@@ -1,6 +1,6 @@
 # Nuxt Multilingual Blog 
 
-This is an example of a basic multilingual blog with [Nuxt](https://nuxtjs.org/) and [i18n](https://i18n.nuxtjs.org/). The objective of the project was to create a functional basic structure with:
+This is an example of a basic multilingual blog with [Nuxt](https://nuxtjs.org/) + [nuxt/content](https://content.nuxtjs.org/) and [nuxt/i18n](https://i18n.nuxtjs.org/). The objective of the project is to create a functional basic structure with:
 
 1.  A home where to show the published posts
 2.  The posts themselves
@@ -8,7 +8,7 @@ This is an example of a basic multilingual blog with [Nuxt](https://nuxtjs.org/)
 
 So everything is quite spartan, like its styles for example, but it works :grimacing:
 
-## How to run this (and to try it :microscope:) ##
+## How to run this (and to test it :microscope:) ##
 
 First you need to have [Node installed in your computer](https://nodejs.org/en/download/package-manager/) and then:
 
@@ -34,6 +34,10 @@ First you need to have [Node installed in your computer](https://nodejs.org/en/d
     ```
 
 Now your site is running at `http://localhost:3000` :v:
+
+## How it works
+
+
 
 
 
