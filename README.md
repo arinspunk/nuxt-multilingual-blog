@@ -6,7 +6,7 @@ This is an example of a basic multilingual blog with [Nuxt](https://nuxtjs.org/)
 2.  The posts themselves
 3.  And a menu to change the language
 
-So everything is quite spartan, like its styles for example, but it works :grimacing:
+So everything is quite spartan, like its styles for example. But it works :grimacing:
 
 ## How to run this (and to test it :microscope:) ##
 
@@ -35,8 +35,9 @@ First you need to have [Node installed in your computer](https://nodejs.org/en/d
 
 Now your site is running at `http://localhost:3000` :v:
 
-## How it works
+## Any questions or comments?
 
+You are free to ask me (Xúlio) at [hello@xulioze.com](mailto:hello@xulioze.com). This code is open source so of course you can use it for any of your projects :blush:
 
 
 
