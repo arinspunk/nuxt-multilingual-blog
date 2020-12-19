@@ -37,7 +37,9 @@ Now your site is running at `http://localhost:3000` :v:
 
 ## Any questions or comments?
 
-You are free to ask me (Xúlio) at [hello@xulioze.com](mailto:hello@xulioze.com). This code is open source so of course you can use it for any of your projects :blush:
+You are free to ask me (Xúlio) at [hello@xulioze.com](mailto:hello@xulioze.com).
+
+Ah! This code is open source so of course you can use it for any of your projects :blush:
 
 
 
